@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "name": "Deploy Cloud Function",
+            "type": "cloudcode.cloudfunctions",
+            "request": "launch",
+            "functionName": "project-7a-hubspot-sync-handler-advanced",
+            "gen": "GEN_2",
+            "revision": "1",
+            "entryPoint": "main",
+            "testInput": "",
+            "region": "europe-west1",
+            "runtime": "python311"
+        },
+        {
+            "name": "Deploy Cloud Function",
+            "type": "cloudcode.cloudfunctions",
+            "request": "launch",
+            "functionName": "project-7-hubspot-sync-handler",
+            "gen": "GEN_2",
+            "revision": "project-7-hubspot-sync-handler-00009-kim",
+            "entryPoint": "main",
+            "testInput": "",
+            "region": "europe-west1",
+            "runtime": "python311"
+        }
+    ]
+}

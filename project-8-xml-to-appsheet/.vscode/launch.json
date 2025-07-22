@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "name": "Deploy Cloud Function",
+            "type": "cloudcode.cloudfunctions",
+            "request": "launch",
+            "functionName": "project-9-xml-uploader",
+            "gen": "GEN_2",
+            "revision": "project-9-xml-uploader-00009-sor",
+            "entryPoint": "main",
+            "testInput": "",
+            "region": "europe-west1",
+            "runtime": "python311"
+        }
+    ]
+}
