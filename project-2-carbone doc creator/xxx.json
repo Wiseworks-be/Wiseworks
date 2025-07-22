@@ -1,0 +1,55 @@
+{
+    "transactionId": "8acfc047-ece7-4134-a71d-38427b54f776",
+    "direction": "INBOUND",
+    "organisationId": "51c9aabd",
+    "networkType": "PEPPOL",
+    "metadata": {
+        "messageIdentifier": "aafe7042-daa5-4d69-9432-1007b77c99b9",
+        "networkProfile": "AS4",
+        "corner1Identifier": "iso6523-actorid-upis::0007:9999004021",
+        "corner4Identifier": "iso6523-actorid-upis::0007:9999004021",
+        "documentIdentifier": "busdox-docid-qns::urn:oasis:names:specification:ubl:schema:xsd:Invoice-2::Invoice##urn:cen.eu:en16931:2017#compliant#urn:fdc:peppol.eu:2017:poacc:billing:3.0::2.1",
+        "processIdentifier": "cenbii-procid-ubl::urn:fdc:peppol.eu:2017:poacc:billing:01:1.0"
+    },
+    "events": [
+        {
+            "access": "PRIVATE",
+            "level": "INFO",
+            "description": "Received transaction using AS4.",
+            "time": "2025-05-15T12:42:40Z"
+        },
+        {
+            "access": "PRIVATE",
+            "level": "INFO",
+            "description": "Decided to use integration method [TRANSACTION_API]",
+            "time": "2025-05-15T12:42:40Z"
+        }
+    ],
+    "artefacts": [
+        {
+            "artefactId": "9c93e3b7-fc69-4a3b-86fd-3fa4788efdce",
+            "type": "INBOUND_SOURCE",
+            "size": 8511,
+            "contentType": "application/xml",
+            "purged": false
+        },
+        {
+            "artefactId": "1884f62c-b31d-427b-ba9c-d4b0e7d25fb2",
+            "type": "C3_C2_AP_REQUEST",
+            "size": 15057,
+            "contentType": "application/xml",
+            "purged": false
+        },
+        {
+            "artefactId": "daed66fe-5b9f-422b-ab6f-83e71595d06b",
+            "type": "C3_C2_AP_RESPONSE",
+            "size": 7062,
+            "contentType": "application/xml",
+            "purged": false
+        }
+    ],
+    "state": "COMPLETED",
+    "outcome": "SUCCESS",
+    "created": "2025-05-15T12:43:04.755280Z",
+    "updated": "2025-05-15T12:42:40Z"
+}
