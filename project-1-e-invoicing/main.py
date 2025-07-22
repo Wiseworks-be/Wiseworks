@@ -1,6 +1,6 @@
 # MAIN.PY
 # ****************************************************************************
-# THIS FLOW IS HANDLING AN E-INVOiCE USING TICKSTAR LAYER     xfgbryan              *
+# THIS FLOW IS HANDLING AN E-INVOiCE USING TICKSTAR LAYER     xfgbryan omondi             *
 # IT HANDLES: INVOICES, CREDIT NOTES AND SB INVOICES                        *
 #                                                                           *
 # IT CREATES A PEPPOL COMPLIANT XML FILE USING JINJA2                       *
