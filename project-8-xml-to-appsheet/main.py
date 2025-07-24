@@ -1,5 +1,5 @@
 #************************************************************************************************
-# THIS FLOW UPLOADS AN XML INVOICE TO ICOMING INVOICES IN WHC                                   *
+# THIS FLOW UPLOADS AN XML INVOICE TO INCOMING INVOICES IN WHC                                   *
 #                                                                                               *
 # params: no params                                                                             *
 #                                                                                               *
