@@ -1,4 +1,4 @@
-# main.py
+# main.py projrect-10-gantt-chart
 
 from flask import Flask, render_template, jsonify
 import datetime
