@@ -6,8 +6,9 @@
 #   TS_ID = (eg.)202506ARISTA03572
 #   Thisuseremail= (eg.)wim@coffeewriter.be
 #
-# creteated by: Marc De Krock
+# created by: Marc De Krock
 # date: 20250709
+# version: 1.0
 # ***********************************************************************************************
 
 import io
